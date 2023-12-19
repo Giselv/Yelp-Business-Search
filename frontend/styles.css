@@ -1,0 +1,136 @@
+/* Reset some default browser styles */
+body, h1, h2, p, ul, li, button {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply a background color and text color to the body */
+body {
+    background-color: #f4f4f4;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+/* Style the header */
+header {
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style the main content container */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Style the search container */
+.search-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+/* Style the search input */
+#searchInput {
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Style the search button */
+#searchButton {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Style the sorting container */
+.sorting {
+    display: flex;
+    align-items: center;
+}
+
+/* Style the sort criteria dropdown */
+#sortCriteria {
+    margin-right: 10px;
+    padding: 5px;
+}
+
+/* Style the sort button */
+#sortButton {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+/* Style the search results container */
+.results {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Style the pagination container */
+.pagination {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+/* Style the pagination buttons */
+#prevButton,
+#nextButton {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+/* Style the page info text */
+#pageInfo {
+    font-weight: bold;
+}
+
+/* Add hover effect for buttons */
+button:hover {
+    background-color: #0056b3;
+}
+/* Style for the sorting dropdown */
+#sortCriteria {
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+/* Style for the Sort button */
+#sortButton {
+    padding: 5px 10px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Style for the Sort button on hover */
+#sortButton:hover {
+    background-color: #0056b3;
+}
