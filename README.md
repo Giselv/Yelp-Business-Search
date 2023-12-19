@@ -1,3 +1,25 @@
+<img width="1145" alt="Screenshot 2023-12-18 at 10 51 50 PM" src="https://github.com/Giselv/Yelp-Business-Search/assets/38061646/eea20438-16c1-49c1-9b46-11a826af2b95">
+
+
+
+<img width="1039" alt="Screenshot 2023-12-18 at 10 58 49 PM" src="https://github.com/Giselv/Yelp-Business-Search/assets/38061646/ec371f76-f0a8-45dd-9463-96c4c38fa13a">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://learn.microsoft.com/en-us/windows/wsl/install for windows
 ```
 APP_NAME=Laravel
